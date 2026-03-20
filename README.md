@@ -78,3 +78,5 @@ This project was developed by our team as part of the SPARK Academy 2026 curricu
 To install the required libraries, run:
 ```bash
 pip install pandas matplotlib seaborn
+# To run the program, use:
+python patient_records_management_system.py
