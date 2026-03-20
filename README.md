@@ -29,12 +29,12 @@ This project was developed by our team as part of the SPARK Academy 2026 curricu
 * **Data Handling:** Pandas
 * **Visualization:** Matplotlib, Seaborn
 * **Environment:** Google Colab / GitHub Classroom
-3. **Interact:** Follow the on-screen menu prompts to search, filter, or view analytics.
 
 ---
 
 ## 📂 Project Structure
 * **`Patient` Class:** Stores individual patient attributes (ID, Name, Age, Diagnosis, etc.) and handles record formatting.
+
 * **`RecordsManager` Class:** Manages the collection of `Patient` objects and contains the logic for searching and filtering.
 * **`load_records()`:** A standalone function that cleans data and prepares the database.
 * **`show_charts()`:** A visualization module using Seaborn to generate clinical insights.
@@ -72,17 +72,9 @@ This project was developed by our team as part of the SPARK Academy 2026 curricu
 
 ---
 
-## 📅 Final Project Details
-* **Submission Date:** March 20, 2026
-* **Dataset:** `02_patient_records.csv`
-* **Academy:** SPARK Academy 2026
-* **Goal:** "Train for Change, From Science to Practice"
----
-
 ## 🚀 Getting Started
 
-### Prerequisites
+### 1. Prerequisites
 To install the required libraries, run:
 ```bash
 pip install pandas matplotlib seaborn
-
