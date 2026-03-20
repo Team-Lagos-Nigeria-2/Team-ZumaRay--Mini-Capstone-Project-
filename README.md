@@ -47,10 +47,6 @@ This project was developed as part of the SPARK Academy 2026 curriculum to demon
 
 ---
 
-## 👥 The Project Team
-
-**Assigned Teams:** Team Nigeria Lagos II | Team Nigeria North West | Team Wakanda
-
 ### Coordination & Leadership
 
 | Name | Email | Role |
