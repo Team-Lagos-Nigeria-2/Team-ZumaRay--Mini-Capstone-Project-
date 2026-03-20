@@ -1,0 +1,81 @@
+patient_id,name,gender,age,dob,diagnosis,ward,admission_date,status
+PAT0001,Patient 1,Male,47,1979-01-20,Pneumonia,Ward A,2023-03-16,Discharged
+PAT0002,Patient 2,Male,43,1982-10-22,Fracture,Ward B,2023-02-08,Discharged
+PAT0003,Patient 3,Female,37,1988-11-26,Hypertension,Ward B,2023-04-03,
+PAT0004,Patient 4,Male,70,1955-04-21,Typhoid,Ward A,2024-08-13,
+PAT0005,Patient 5,Male,71,1954-06-13,Malaria,Ward B,2023-10-24,
+PAT0006,Patient 6,Male,63,1962-12-10,Gastroenteritis,ICU,2024-07-27,Admitted
+PAT0007,Patient 7,Male,66,1959-03-31,Tuberculosis,Ward A,2024-07-14,Discharged
+PAT0008,Patient 8,Male,25,2000-08-19,Gastroenteritis,Ward B,2024-05-23,
+PAT0009,Patient 9,Female,48,1978-03-08,Gastroenteritis,Outpatient,2024-01-06,Under Review
+PAT0010,Patient 10,Male,53,1972-04-15,Typhoid,Ward A,2024-08-11,Under Review
+PAT0011,Patient 11,Female,29,1997-02-12,Tuberculosis,Outpatient,2023-10-22,Discharged
+PAT0012,Patient 12,Female,65,1960-08-04,Diabetes,ICU,2023-06-05,
+PAT0013,Patient 13,Male,38,1987-11-01,Hypertension,ICU,2023-12-15,Under Review
+PAT0014,Patient 14,Female,22,2003-04-29,Gastroenteritis,Outpatient,2023-03-12,Discharged
+PAT0015,Patient 15,Female,51,1974-03-21,Hypertension,Ward A,2024-12-19,Under Review
+PAT0016,Patient 16,Female,24,2001-11-07,Anaemia,Outpatient,2024-11-15,Under Review
+PAT0017,Patient 17,Female,74,1952-01-10,Tuberculosis,Ward B,2024-09-17,Discharged
+PAT0018,Patient 18,Male,31,1994-04-17,Typhoid,ICU,2023-05-13,Admitted
+PAT0019,Patient 19,Female,40,1985-09-12,Appendicitis,Ward A,2023-06-20,
+PAT0020,Patient 20,Female,40,1986-01-13,Diabetes,Outpatient,2024-07-17,Under Review
+PAT0021,Patient 21,Female,38,1987-04-05,Pneumonia,Ward B,2023-06-04,Discharged
+PAT0022,Patient 22,Male,60,1965-10-23,Typhoid,Ward B,2023-01-13,
+PAT0023,Patient 23,Male,23,2002-11-08,Anaemia,ICU,2023-01-05,Admitted
+PAT0024,Patient 24,Female,38,1987-08-03,Gastroenteritis,ICU,2023-05-09,Discharged
+PAT0025,Patient 25,Female,35,1990-12-20,Pneumonia,Outpatient,2024-02-08,Discharged
+PAT0026,Patient 26,Female,32,1993-03-14,Malaria,Ward B,2023-03-10,Admitted
+PAT0027,Patient 27,Male,36,1989-07-13,Hypertension,ICU,2024-09-07,Discharged
+PAT0028,Patient 28,Male,67,1959-03-09,Gastroenteritis,Ward B,2024-07-03,Discharged
+PAT0029,Patient 29,Male,43,1982-08-15,Hypertension,Ward B,2024-09-20,
+PAT0030,Patient 30,Female,62,1963-04-30,Tuberculosis,ICU,2024-04-30,Discharged
+PAT0031,Patient 31,Female,65,1960-05-07,Appendicitis,Outpatient,2024-05-10,Under Review
+PAT0032,Patient 32,Male,68,1957-09-15,Hypertension,ICU,2023-09-29,
+PAT0033,Patient 33,Male,61,1964-06-26,Typhoid,ICU,2023-05-31,Discharged
+PAT0034,Patient 34,Female,28,1997-05-19,Hypertension,ICU,2024-06-14,Under Review
+PAT0035,Patient 35,Female,61,1964-12-26,Typhoid,ICU,2024-10-13,Admitted
+PAT0036,Patient 36,Male,21,2005-01-06,Typhoid,Outpatient,2023-08-21,Admitted
+PAT0037,Patient 37,Female,29,1996-06-09,Tuberculosis,Ward A,2023-01-29,Under Review
+PAT0038,Patient 38,Female,33,1992-05-14,Typhoid,ICU,2024-04-02,Under Review
+PAT0039,Patient 39,Male,43,1982-09-18,Typhoid,Ward A,2023-08-21,
+PAT0040,Patient 40,Female,58,1967-08-25,Typhoid,Outpatient,2024-10-01,Discharged
+PAT0041,Patient 41,Female,33,1993-01-06,Hypertension,Ward A,2024-02-02,Admitted
+PAT0042,Patient 42,Male,33,1992-11-20,Pneumonia,ICU,2023-03-30,
+PAT0043,Patient 43,Female,34,1991-07-21,Hypertension,Ward B,2023-06-24,Admitted
+PAT0044,Patient 44,Male,73,1952-06-21,Gastroenteritis,Outpatient,2024-11-02,Admitted
+PAT0045,Patient 45,Female,21,2004-11-13,Tuberculosis,Ward B,2024-07-15,Admitted
+PAT0046,Patient 46,Male,74,1951-12-03,Hypertension,Ward B,2024-03-20,Admitted
+PAT0047,Patient 47,Male,57,1968-12-07,Anaemia,Ward B,2023-10-27,Admitted
+PAT0048,Patient 48,Female,23,2002-08-12,Anaemia,Outpatient,2023-05-15,Discharged
+PAT0049,Patient 49,Female,44,1981-09-27,Gastroenteritis,Outpatient,2024-05-28,Admitted
+PAT0050,Patient 50,Male,28,1997-09-17,Fracture,Ward A,2024-03-26,Admitted
+PAT0051,Patient 51,Male,21,2004-08-06,Diabetes,Ward B,2023-05-25,
+PAT0052,Patient 52,Male,20,2005-07-17,Fracture,Ward A,2023-11-30,
+PAT0053,Patient 53,Male,66,1959-07-09,Typhoid,Ward B,2023-10-11,Discharged
+PAT0054,Patient 54,Female,67,1958-10-08,Fracture,Ward A,2023-03-06,
+PAT0055,Patient 55,Male,46,1979-03-19,Anaemia,Outpatient,2024-06-04,
+PAT0056,Patient 56,Male,30,1995-07-22,Fracture,ICU,2024-07-26,Admitted
+PAT0057,Patient 57,Male,36,1990-02-24,Pneumonia,Ward A,2024-02-06,
+PAT0058,Patient 58,Male,47,1978-05-08,Typhoid,Outpatient,2023-03-16,Admitted
+PAT0059,Patient 59,Male,49,1977-03-01,Diabetes,ICU,2023-05-27,Under Review
+PAT0060,Patient 60,Female,63,1962-04-25,Typhoid,Ward A,2024-02-12,
+PAT0061,Patient 61,Male,61,1964-08-09,Diabetes,Outpatient,2024-06-11,
+PAT0062,Patient 62,Female,45,1980-06-04,Typhoid,ICU,2023-11-23,Discharged
+PAT0063,Patient 63,Male,43,1982-10-31,Tuberculosis,Outpatient,2024-03-27,Discharged
+PAT0064,Patient 64,Female,41,1984-06-25,Fracture,ICU,2024-06-08,Discharged
+PAT0065,Patient 65,Male,66,1960-02-15,Hypertension,Ward A,2023-09-29,Under Review
+PAT0066,Patient 66,Male,72,1953-07-21,Anaemia,Ward B,2024-03-08,Under Review
+PAT0067,Patient 67,Male,39,1986-06-03,Fracture,Outpatient,2024-12-18,Under Review
+PAT0068,Patient 68,Female,68,1958-01-10,Malaria,Ward B,2024-03-11,Discharged
+PAT0069,Patient 69,Male,52,1974-02-16,Hypertension,ICU,2023-03-27,Admitted
+PAT0070,Patient 70,Female,70,1955-12-24,Hypertension,Outpatient,2023-01-12,Under Review
+PAT0071,Patient 71,Female,26,1999-08-14,Anaemia,Ward B,2023-02-14,Admitted
+PAT0072,Patient 72,Male,66,1959-10-27,Anaemia,Ward A,2023-07-05,Admitted
+PAT0073,Patient 73,Female,48,1977-12-28,Fracture,Ward B,2023-10-24,
+PAT0074,Patient 74,Male,31,1994-11-12,Anaemia,ICU,2023-01-19,Under Review
+PAT0075,Patient 75,Male,72,1953-04-25,Malaria,Ward B,2024-06-10,
+PAT0076,Patient 76,Female,54,1972-01-16,Hypertension,Outpatient,2024-11-03,
+PAT0077,Patient 77,Female,27,1998-12-23,Fracture,ICU,2024-12-05,Admitted
+PAT0078,Patient 78,Female,55,1970-08-06,Typhoid,Ward B,2024-02-19,Under Review
+PAT0079,Patient 79,Male,71,1954-11-18,Malaria,Ward A,2024-10-02,Under Review
+PAT0080,Patient 80,Male,37,1988-08-23,Malaria,Ward A,2024-11-12,
