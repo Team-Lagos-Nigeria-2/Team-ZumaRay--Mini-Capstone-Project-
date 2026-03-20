@@ -29,7 +29,54 @@ This project was developed by our team as part of the SPARK Academy 2026 curricu
 * **Data Handling:** Pandas
 * **Visualization:** Matplotlib, Seaborn
 * **Environment:** Google Colab / GitHub Classroom
+3. **Interact:** Follow the on-screen menu prompts to search, filter, or view analytics.
 
+---
+
+## 📂 Project Structure
+* **`Patient` Class:** Stores individual patient attributes (ID, Name, Age, Diagnosis, etc.) and handles record formatting.
+* **`RecordsManager` Class:** Manages the collection of `Patient` objects and contains the logic for searching and filtering.
+* **`load_records()`:** A standalone function that cleans data and prepares the database.
+* **`show_charts()`:** A visualization module using Seaborn to generate clinical insights.
+
+---
+
+## 👥 The Project Team
+**Assigned Teams:** Team Nigeria Lagos II | Team Nigeria North West | Team Wakanda
+
+### Coordination & Leadership
+| Name | Email | Role |
+| :--- | :--- | :--- |
+| **Oluwapelumi Solagbade** | solagbadepelumi@gmail.com | Team Coordinator |
+| **Bello Abdulbasit Olayemi** | bellobasit790@gmail.com | TA / Support |
+
+### Clinical Research & Analysis
+| Name | Email | Role |
+| :--- | :--- | :--- |
+| **Mkpoikanabasi Obot-Obot** | Emkayobot@gmail.com | Researcher / Clinician |
+| **Oloruntoba Joshua Ajayi** | tobajosh1000@gmail.com | Researcher / Clinician |
+| **Sarah Ohagu** | ohagusarah@gmail.com | Researcher / Clinician |
+| **Happiness Bankole** | bankolehappy@gmail.com | Researcher / Clinician |
+| **Abraham Izuchukwu Awamba** | awambaaizu@gmail.com | Researcher / Clinician |
+| **Chijioke Kennedy Ibe** | chijiokekennedydominic@gmail.com | Researcher |
+
+### Development & Programming
+| Name | Email | Role |
+| :--- | :--- | :--- |
+| **Glory Onyeche Ejigah** | gloryejigah@gmail.com | Coding & Debugging Programmer |
+| **Aisha Olanrewaju** | ishaolan1@gmail.com | Coding & Debugging Programmer |
+| **Nimota Opeyemi Yusuf** | nimotaopeyemiyusuf@gmail.com | Coding & Debugging Programmer |
+| **Fodilullahi Alao Abdulrasaq** | fodlullah.abdulrasaq@gmail.com | Coding & Debugging Programmer |
+| **Toluwalope Ilori Ilori** | iloritoluwalope6@gmail.com | Coding & Debugging Programmer |
+| **Toyyib Ahmed** | ahmedtoyyib1@gmail.com | Coding & Debugging Programmer |
+
+---
+
+## 📅 Final Project Details
+* **Submission Date:** March 20, 2026
+* **Dataset:** `02_patient_records.csv`
+* **Academy:** SPARK Academy 2026
+* **Goal:** "Train for Change, From Science to Practice"
 ---
 
 ## 🚀 Getting Started
