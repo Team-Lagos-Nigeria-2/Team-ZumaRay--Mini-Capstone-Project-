@@ -84,5 +84,5 @@ This project was developed by our team as part of the SPARK Academy 2026 curricu
 ### Prerequisites
 To install the required libraries, run:
 ```bash
-pip install pandas matplotlib seabor
+pip install pandas matplotlib seaborn
 
