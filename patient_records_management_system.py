@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# --- STANDALONE FUNCTIONS ---
+#  STANDALONE FUNCTIONS 
 
 def load_records(file_path):
     """Function 1: Loads and cleans data from CSV"""
@@ -32,7 +32,7 @@ def generate_summary(df):
     print("\nPatients per Ward:")
     print(df['ward'].value_counts())
 
-# --- CLASSES ---
+#  CLASSES
 
 class Patient:
     """Class 1: Individual Patient Record"""
@@ -71,7 +71,7 @@ class RecordsManager:
             return [p for p in self.patients if p.ward.lower() == value.lower()]
         return []
 
-# --- VISUALIZATION FUNCTION ---
+# VISUALIZATION FUNCTION
 
 def show_charts(df):
     """Function 3: Generates the 3 mandatory charts"""
