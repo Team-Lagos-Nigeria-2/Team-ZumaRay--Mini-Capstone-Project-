@@ -100,3 +100,7 @@ python patient_records_management_system.py
 ```python
 %run patient_records_management_system.py
 ```
+** Run via VS Code: **Upload both files to the session storage and run this in a code cell:
+```R
+%run patient_record_managment_system.py
+```
